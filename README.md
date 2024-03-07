@@ -1,6 +1,4 @@
-# Ktor plugin install with timing
-
-A Ktor extenstion function to log how long a plugin took to install.
+### A Ktor extenstion function to log how long a plugin took to install.
 
 ```kotlin
 fun <B : Any, F : Any> Application.installWithTiming(

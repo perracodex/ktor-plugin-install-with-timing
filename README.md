@@ -18,4 +18,4 @@ fun <B : Any, F : Any> Application.installWithTiming(
 }
 ```
 
-Then just replace any plugin ```install``` with ```installWithTiming```, and that is all, You should now get install timings in the logs.
+Then just replace any plugin ```install``` with ```installWithTiming```, and that is all. Now you should get install timings in the logs.
